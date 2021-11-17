@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/-django-007ACC?style=flat-square&amp;logo=django&amp;logoColor=white"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&amp;logo=graphql&amp;"> 
 <img src="https://img.shields.io/badge/-celery-007ACC?style=flat-square&amp;logo=celery&amp;logoColor=white">
 <img src="https://img.shields.io/badge/-Rabbitmq-764ABC?style=flat-square&amp;logo=Rabbitmq&amp;logoColor=white">
+<img src="https://img.shields.io/badge/-Sanic-764ABC?style=flat-square&amp;logo=Sanic&amp;logoColor=white">
+<img src="https://img.shields.io/badge/-aiohttp-764ABC?style=flat-square&amp;logo=aiohttp&amp;logoColor=white">
  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dapng&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dapng&layout=compact&hide_border=true)](https://github.com/dapng/github-readme-stats)

@@ -29,6 +29,6 @@
 <img src="https://img.shields.io/badge/-aiohttp-764ABC?style=flat-square&amp;logo=aiohttp&amp;logoColor=white">
  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dapng&show_icons=true&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dapng&layout=compact&hide_border=true)](https://github.com/dapng/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dapng&show_icons=true&hide_border=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dapng&layout=compact&hide_border=true)](https://github.com/dapng/github-readme-stats)
 
 

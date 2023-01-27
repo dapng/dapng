@@ -3,7 +3,7 @@
  
 ### Contacts
  
-<a href="https://linkedin.com/in/danila-bogoslavtsev-47b822224/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;"></a> <a href="[https://t.me/unnamed43]"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;"></a>
+<a href="https://linkedin.com/in/danila-bogoslavtsev-47b822224/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;"></a> <a href="https://t.me/unnamed43"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;"></a>
 <a href="mailto:da.slv@yandex.ru"> <img src="https://img.shields.io/badge/-Email-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
  
 ### Tech & Tools Preference
